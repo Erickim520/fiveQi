@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1457512030 source:e:\c”Ô—‘\cc++_project\fiveqi\main.cpp
+	<iostream>
+	<graphics.h>
+	"main.h"
+	"tool.h"
+	<stdio.h>
+	<time.h>
+
+1457057680 e:\c”Ô—‘\cc++_project\fiveqi\main.h
+
+1457496000 e:\c”Ô—‘\cc++_project\fiveqi\tool.h
+	<graphics.h>
+	<iostream>
+	"main.h"
+
+1457011015 source:e:\c”Ô—‘\cc++_project\fiveqi\tool.c
+	"tool.h"
+
+1457511779 source:e:\c”Ô—‘\cc++_project\fiveqi\tool.cpp
+	"tool.h"
+
